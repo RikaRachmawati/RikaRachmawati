@@ -1,8 +1,6 @@
 ### Hi there, I'm Rika Rachmawati 👋
 
-<p align="center">
-  <img src="profile.jpg" width="524px" height="324px">
-</p>
+
 <br>
 
 
@@ -11,6 +9,10 @@
 
 <!--
 **RikaRachmawati/RikaRachmawati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+  <img src="profile.jpg" width="524px" height="324px">
+</p>
 
 Here are some ideas to get you started:
 
